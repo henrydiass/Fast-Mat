@@ -9,9 +9,10 @@ public class Main {
         BDD tabela = new BDD();
         Scanner scanner = new Scanner(System.in);
         System.out.print("Porfavor insira o nome do Jogador -> ");
-        Game game = new Game(scanner.next());
 
+        Game game = new Game(scanner.next());
         long startTime = System.currentTimeMillis();
+
         while (System.currentTimeMillis() - startTime < 30000) {
             game.play();
         }
