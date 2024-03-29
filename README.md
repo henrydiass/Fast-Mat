@@ -1,4 +1,4 @@
-# fibfastestsimulato
+# Fast-Mat
 Este projeto foi desenvolvido no primeiro semestre de estudos de programacao Orientada a Objeto.
 A ideia principal era criar uma classe que lidaria com a persistencia de dados em um banco de dados.
 Entao foi criado um jogo que geraria numeros randomicos para quem estivesse jogando realizar operacoes matematicas com eles,
